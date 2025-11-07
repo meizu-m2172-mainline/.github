@@ -13,3 +13,6 @@
 |Battery         |qcom,pm8150b-fg  |                             |Y            |
 |Charger         |qcom,smb1390     |                             |N            |
 |Charger         |halo,hl6111r     |                             |N            |
+
+## Unlocking bootloader
+[Guide-to-Unlock-Your-MEIZU-Device](https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/Guide-to-Unlock-Your-MEIZU-Device)
