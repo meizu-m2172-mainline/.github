@@ -6,13 +6,13 @@
 |Screen          |visionox,vtdr6130|                             |Y            |
 |Touchscreen     |focaltech,fts    |worked with downstream driver|Y            |
 |GPU             |qcom,adreno-650  |                             |Y            |
-|WiFi            |QCA6390          |                             |N            |
-|Bluetooth       |QCA6390          |                             |N            |
+|WiFi            |QCA6390          |                             |Y            |
+|Bluetooth       |QCA6390          |                             |Y            |
 |Modem           |sdx55m           |                             |N            |
-|Audio codecs    |awinic,aw88264   |                             |N            |
+|Audio codecs    |awinic,aw88264   |speaker playback             |Y            |
 |Battery         |qcom,pm8150b-fg  |                             |Y            |
-|Charger         |qcom,smb1390     |                             |N            |
-|Charger         |halo,hl6111r     |                             |N            |
+|Charger         |qcom,pm8150b-charger|USB charging              |Y            |
+|USB Type-C      |qcom,pm8150b-typec|                             |Y            |
 
 ## Unlocking bootloader
 [Guide-to-Unlock-Your-MEIZU-Device](https://github.com/sukanka/MEIZU16S_unlock_tutorial/wiki/Guide-to-Unlock-Your-MEIZU-Device)
